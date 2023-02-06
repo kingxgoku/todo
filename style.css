@@ -10,7 +10,7 @@
     --dark-grey-blue:hsl(236, 9%, 61%);
     --very-dark-grey-blue:hsl(235, 19%, 35%);
     --bright-blue: hsl(220, 98%, 61%);
-    --url: url('./images/bg-desktop-light.jpg');
+    --url: url('images/bg-desktop-light.jpg');
 }
 
 :root.dark{
@@ -20,7 +20,7 @@
     --bs-body-color:hsl(237, 24%, 49%);
     --bs-body-disabled-color:hsl(240, 13%, 84%);
     --bs-form-control-disabled-bg:hsl(234, 11%, 52%);
-    --url: url('./images/bg-desktop-dark.jpg');
+    --url: url('images/bg-desktop-dark.jpg');
     --dark-grey-blue:hsl(235, 15%, 86%);
 
     /* --bs-body-color-rgb:204, 212, 120 ; */
